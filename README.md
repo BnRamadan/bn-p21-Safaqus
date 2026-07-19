@@ -1,342 +1,190 @@
-#  Safaqes - Design Consultancy Portfolio
-
 <div align="center">
 
-<img src="https://safaqes.com/Slogo.png" alt="Safaqes Logo" width="120" height="120" />
+<br/>
 
-**Clarity by Design | Transforming Complexity into Intuitive Solutions**
+<img src="https://safaqes.com/Slogo.png" alt="Safaqes" width="110" />
 
-[![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-18.2.0-3178C6?logo=typescript)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-6.0.4-646CFF?logo=vite)](https://vitejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.16-38BDF8?logo=tailwind-css)](https://tailwindcss.com/)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.26.2-FF6B6B?logo=framer)](https://www.framer.com/motion/)
-[![Radix UI](https://img.shields.io/badge/Radix_UI-Latest-161618?logo=radix-ui)](https://www.radix-ui.com/)
+<br/>
+<br/>
 
-[Live Site](https://safaqes.com) | [ Fully Responsive](https://safaqes.com) | [ SEO Optimized](https://safaqes.com)
+# Safaqes
+### Clarity by Design
+
+**The digital home of a strategic design and innovation consultancy, built to the same standard the consultancy holds its own clients to.**
+
+*Turning complexity into clarity, in the work and in the code that presents it.*
+
+<br/>
+
+[safaqes.com](https://safaqes.com)
+
+<br/>
+
+`Proprietary` · `Live in production` · `Actively developed`
+
+<br/>
 
 </div>
 
 ---
 
-##  Project Overview
+## The Story
 
-**Safaqes** is a professional design consultancy portfolio website showcasing comprehensive design services including Product & Service Design, Business Design, Brand Strategy, Coaching & Capacity Building, and Report Design. Built with modern web technologies, it delivers an exceptional user experience while highlighting the company's expertise in transforming complexity into clarity.
+A consultancy that sells clarity cannot afford a website that lacks it.
 
-###  Design Philosophy
+Safaqes helps organizations design better products, services, brands and businesses. Its
+work is research-driven, evidence-backed and deliberately unflashy: understand the problem
+properly, then build the simplest thing that solves it well. The platform in this
+repository was built to embody that philosophy rather than merely describe it.
 
-- **Clarity First**: Clean, intuitive interfaces that prioritize user understanding
-- **Evidence-Backed**: Design decisions rooted in research and validation
-- **Scalable Solutions**: Systems engineered to work efficiently at any scale
-- **User-Centric**: Approaches that put the end-user at the center of every decision
-
-###  Core Mission
-
-Safaqes turns complexity into clarity, designing intuitive products, services, and systems engineered to work efficiently. The company helps organizations understand what needs to be improved through research, analysis, prototyping, and testing.
-
----
-
-##  Features
-
-###  Core Features
-
-- **Interactive Service Showcase**: Detailed presentation of 5 core service offerings
-- **Animated Hero Section**: Cinematic background with compelling messaging
-- **Client Portfolio**: Showcase of trusted clients and successful projects
-- **Value Proposition**: Clear communication of delivered value
-- **Responsive Design**: Optimized for all devices and screen sizes
-- **Smooth Animations**: Framer Motion-powered transitions and interactions
-
-###  Visual Experience
-
-- **Dynamic Background**: Animated pattern elements for visual depth
-- **Hover Effects**: Interactive micro-animations throughout
-- **Scroll Animations**: Smooth scroll-triggered reveals
-- **Typography**: Professional Gilroy font family for brand consistency
-- **Color System**: Carefully curated palette with brand colors
-
-###  User Experience
-
-- **Mobile-First Design**: Optimized for smartphones and tablets
-- **Fast Loading**: Optimized images and code splitting
-- **Accessibility**: WCAG compliant with keyboard navigation
-- **SEO Optimized**: Comprehensive meta tags and structured data
-- **Progressive Enhancement**: Works seamlessly across all browsers
+This is not a brochure that was designed once and left to age. It is a living platform:
+the public face of the practice, a publishing operation, a lead engine and a proof of
+craft, all in one product. Every screen, every animation and every sentence on it was
+treated as client work, because for a design consultancy the website is the first
+deliverable a prospect ever judges.
 
 ---
 
-##  Technology Stack
+## What The Platform Does
 
-###  Frontend Framework
+**Presents six practices as narratives, not menus.**
+Product & Service Design, Business Design, Brand Strategy & Communication, Coaching &
+Capacity Building, Data Visualization & Report Design, and AI & Workflow Automation. Each
+practice has its own long-form page that walks a prospect through the approach, the
+process and the outcomes in the consultancy's own voice, structured the way a good
+proposal is structured rather than the way a sitemap is structured.
 
-- **React 18.2.0**: Modern React with hooks and concurrent features
-- **TypeScript 18.2.0**: Type-safe development environment
-- **React Router DOM 6.8.1**: Client-side routing with dynamic pages
+**Publishes without redeploying.**
+Articles and insights are written and curated in a private editorial workspace and appear
+on the live site on their own, within about a minute, with no engineering involvement. The
+site stays fresh at the speed of the practice, not the speed of a release cycle. Readers
+get seamless progressive loading as they scroll, and the page quietly picks up new
+content while it is open.
 
-###  Styling & Animation
+**Turns readers into relationships.**
+A resources library offers genuinely useful tools and guides in exchange for a name and
+an email, captured through a flow that respects the visitor: minimal fields, instant
+delivery, graceful behaviour when anything goes wrong. A newsletter runs alongside it.
+Every download and every subscription is a warm, self-qualified lead that walked in on
+its own.
 
-- **Tailwind CSS 3.4.16**: Utility-first CSS framework
-- **Framer Motion 12.26.2**: Production-ready motion library
-- **Tailwind Merge 2.5.4**: Utility class merging
-- **Tailwind Animate 1.0.7**: Extended animation utilities
+**Shows the work and the people behind it.**
+Selected work, client relationships, testimonials and a full company story, presented
+with restraint. The platform lets outcomes and voices carry the credibility instead of
+adjectives.
 
-###  UI Components
-
-- **Radix UI Accordion 1.2.1**: Accessible accordion components
-- **Radix UI Separator 1.1.0**: Visual separators
-- **Radix UI Slot 1.1.0**: Composition utilities
-- **Lucide React 0.453.0**: Beautiful icon library
-- **Class Variance Authority 0.7.0**: Type-safe component variants
-
-###  Build Tools
-
-- **Vite 6.0.4**: Lightning-fast build tool with HMR
-- **ESBuild 0.24.0**: Extremely fast JavaScript bundler
-- **PostCSS**: CSS processing and optimization
-
----
-
-##  Project Structure
-
-```
-Safaqus v1/
-├── 📁 public/                        # Static assets
-│   ├── 🖼️ Slogo.png                  # Brand logo
-│   ├── 🖼️ icons.svg                  # Icon sprite
-│   ├── 🖼️ element-05.svg             # Decorative elements
-│   ├── 📁 Service Images/            # Service detail images
-│   │   ├── ProductServiceDesign.jpeg
-│   │   ├── BusinessDesign.jpeg
-│   │   ├── BrandStrategy.jpeg
-│   │   ├── Coaching.jpeg
-│   │   └── ReportDesign.jpeg
-│   ├── 📁 Client Logos/              # Trusted client logos
-│   │   ├── clients (1-10).png
-│   │   └── ...
-│   ├── 📁 Value Images/              # Value proposition images
-│   │   ├── Clarity.jpeg
-│   │   ├── Alignment.jpeg
-│   │   ├── Confidence.jpeg
-│   │   └── Impact.jpeg
-│   ├── 📄 robots.txt                 # SEO robots file
-│   └── 📄 sitemap.xml                # Site structure
-├── 📁 src/
-│   ├── 📁 components/
-│   │   ├── 📁 ui/                    # Reusable UI components
-│   │   │   ├── accordion.tsx
-│   │   │   ├── button.tsx
-│   │   │   └── separator.tsx
-│   │   └── Layout.tsx                # Main layout wrapper
-│   ├── 📁 screens/
-│   │   ├── 📁 Homepage/
-│   │   │   ├── Homepage.tsx
-│   │   │   └── 📁 sections/
-│   │   │       ├── HeroSection/
-│   │   │       ├── WhatWeDoSection/
-│   │   │       ├── OurServicesSection/
-│   │   │       ├── ValueDeliveredSection/
-│   │   │       ├── HowWeWorkSection/
-│   │   │       ├── WhoWeWorkWithSection/
-│   │   │       ├── CoreValuesSection/
-│   │   │       ├── ClientTestimonialsSection/
-│   │   │       ├── FAQSection/
-│   │   │       └── ContactCTASection/
-│   │   └── 📁 ServiceDetail/
-│   │       ├── ProductServiceDesign.tsx
-│   │       ├── BusinessDesign.tsx
-│   │       ├── BrandStrategy.tsx
-│   │       ├── Coaching.tsx
-│   │       ├── ReportDesign.tsx
-│   │       └── ServiceDetailLayout.tsx
-│   ├── 📁 lib/
-│   │   └── utils.ts                  # Utility functions
-│   ├── index.tsx                     # Application entry
-│   └── index.html                    # HTML template
-├── 📄 package.json                   # Dependencies & scripts
-├── 📄 tailwind.config.js            # Tailwind configuration
-├── 📄 vite.config.ts                # Vite build configuration
-└── 📄 README.md                     # Project documentation
-```
+**Reads beautifully on everything.**
+Designed mobile-first and tested across screen sizes, with a cinematic hero, scroll-driven
+reveals and micro-interactions that are tuned to feel effortless rather than decorative.
+Motion is used the way the consultancy uses it in client work: to direct attention, never
+to fill silence.
 
 ---
 
-##  Design System
+## Built To Be Found
 
-###  Color Palette
+A growing share of discovery no longer happens on a search results page. It happens
+inside AI assistants that read, summarise and recommend on a user's behalf, and inside
+social feeds that render a link as a card before anyone clicks it.
 
-```css
-:root {
-  /* Primary Colors */
-  --safaqes-orange: #f1592d;
-  --safaqes-orange-50: #fff5f2;
-  --safaqes-orange-600: #d94d2a;
+The platform was built for all three audiences at once. Human visitors get a fast,
+polished experience. Search engines get semantic structure, accurate per-page metadata, a
+complete sitemap and pre-rendered content they can index without executing anything.
+Assistants and social platforms get clean, truthful, machine-readable descriptions of
+every page, so Safaqes is quoted accurately rather than paraphrased badly or skipped.
 
-  /* Neutral Colors */
-  --off-white: #f7f7f7;
-  --black: #171717;
-  --black-500: #000000;
-
-  /* Semantic Colors */
-  --border: hsl(214.3 31.8% 91.4%);
-  --input: hsl(214.3 31.8% 91.4%);
-  --ring: hsl(222.2 84% 4.9%);
-}
-```
-
-###  Typography
-
-- **Primary Font**: Gilroy (Bold, Semibold, Regular)
-- **Display Font**: Neue Haas Grotesk Text Pro (Bold)
-- **Weights**: 400 (Regular), 600 (Semibold), 700 (Bold)
-- **Font Loading**: Custom font files with fallback to Helvetica
-
-###  Animation System
-
-- **Duration**: 300ms (fast), 600ms (medium), 800ms (slow)
-- **Easing**: ease-out for smooth, natural motion
-- **Stagger**: 0.1s delay between sequential elements
-- **Scroll Animations**: Framer Motion with viewport triggers
-
-###  Responsive Breakpoints
-
-- **Mobile**: < 640px (sm)
-- **Tablet**: 640px - 1024px (md/lg)
-- **Desktop**: > 1024px (xl)
-- **Large**: > 1440px (2xl)
+Performance is treated as a feature with numbers attached. The build is aggressively
+optimised, images and fonts load with intent, and the site is held against the industry's
+Core Web Vitals bar: content painted in under 2.5 seconds, input response under 100
+milliseconds, and a layout that does not shift under the reader.
 
 ---
 
-## Services Offered
+## How It Is Built
 
-### 1.  Product & Service Design
+The honest summary is that the discipline is the product.
 
-**Transforming insights into validated, evidence-backed solutions**
+**One design language, defined once.**
+Colour, type, spacing and motion live in a single system that every component draws from.
+A brand decision changes in one place and propagates everywhere, which is why the site
+feels like one hand built it.
 
-- User-centric design approaches
-- Research, analysis, prototyping, and testing
-- Evidence-backed product development
-- Customer-focused service design
+**Type safety end to end.**
+The entire codebase is statically typed. A whole class of production failures is caught
+at the keyboard instead of by a visitor.
 
-### 2.  Business Design
+**Content is decoupled from presentation.**
+The editorial platform that feeds the site is a separate, private system with its own
+controls. The public site consumes published content and nothing else; nothing about the
+publishing operation is exposed by the pages it feeds.
 
-**Combining business strategy with design thinking**
+**Failure is designed, not discovered.**
+Slow networks, unavailable content and interrupted submissions all have designed
+behaviour. The platform degrades to something calm and usable rather than to a spinner or
+a broken screen, because a prospect's first impression does not get a second attempt.
 
-- Current state analysis and future vision
-- New business model creation
-- Revenue stream development
-- Go-to-market concept development
-
-### 3.  Brand Strategy, Design & Communication
-
-**Shaping brands that are distinctive, meaningful, and built to grow**
-
-- Brand foundation definition
-- Visual identity creation
-- Communication strategy
-- Consistent brand messaging
-
-### 4.  Coaching & Capacity Building
-
-**Tailor-made courses combining theory and practice**
-
-- Innovation training
-- Design thinking workshops
-- Custom practical sessions
-- Team capacity building
-
-### 5.  Report Design
-
-**Transforming complex information into accessible insights**
-
-- Research report design
-- Evaluation report structuring
-- Impact report visualization
-- Policy report presentation
+**The client holds no secrets.**
+The code that ships to the browser contains nothing sensitive: no credentials, no keys,
+no privileged logic. Everything that matters is held server-side behind its own controls,
+so the public bundle can be read by anyone, as browser code always can be, without giving
+anything away.
 
 ---
 
-##  Performance & SEO
+## Security Posture
 
-###  SEO Features
+Security here is proportionate and deliberate. The platform enforces encrypted transport
+everywhere, hardened response headers, validated and constrained input on every public
+write path, and automated deployment that only accepts authenticated, verified triggers.
+Visitor data is collected minimally, used for exactly what the visitor was told, and
+never placed in the client where it does not belong. Certificates, dependencies and the
+deployment pipeline are maintained on an automated cadence rather than by memory.
 
-- **Comprehensive Meta Tags**: Title, description, keywords
-- **Open Graph**: Rich social media previews
-- **Structured Data**: Schema.org markup for services
-- **XML Sitemap**: Complete site structure for search engines
-- **Robots.txt**: Search engine crawling directives
-- **Semantic HTML**: Proper HTML5 semantic elements
+**On this document specifically.**
 
-###  Performance Optimizations
+This README deliberately contains no directory layout, no dependency or version
+inventory, no route or endpoint listing, no infrastructure detail, no configuration
+names and no description of how any individual protection is implemented. That is a
+choice, not an omission.
 
-- **Code Splitting**: Route-based and component-based splitting
-- **Image Optimization**: Optimized JPEG images with proper sizing
-- **Font Loading**: Custom font loading with display swap
-- **Bundle Optimization**: Tree shaking and minification
-- **Lazy Loading**: Components loaded on demand
+Published implementation detail is reconnaissance. A version number is a lookup in a
+vulnerability database, an endpoint list is a target list, and a described mechanism is a
+mechanism with a known shape. None of it is needed to understand what this platform is or
+the standard it was built to, so none of it is here.
 
-###  Core Web Vitals
-
-Target performance metrics:
-
-- **LCP (Largest Contentful Paint)**: < 2.5s
-- **FID (First Input Delay)**: < 100ms
-- **CLS (Cumulative Layout Shift)**: < 0.1
-- **TTFB (Time to First Byte)**: < 800ms
-
+Anything security related should be raised privately through the contact below, never in
+a public issue.
 
 ---
 
-##  Deployment
+## Status
 
-###  Production Deployment
+The platform is live in production at [safaqes.com](https://safaqes.com) and under
+active development. The engineering foundation is complete and stable; current work is
+editorial and commercial: publishing cadence, resource development and the steady
+compounding of search and assistant visibility that a content platform exists to earn.
 
-The site is deployed on a dedicated KVM server with:
-
-- **Server**: Ubuntu 22.04 LTS
-- **Web Server**: Nginx 1.18.0
-- **SSL**: Let's Encrypt (Auto-renewal enabled)
-- **Domain**: safaqes.com + www.safaqes.com
-- **CI/CD**: GitHub Webhook for automated deployments
-
-###  Security Features
-
-- **HTTPS Enforcement**: Full SSL/TLS encryption
-- **Security Headers**: XSS protection, content type options
-- **Automated SSL Renewal**: Certbot with twice-daily checks
-- **Webhook Authentication**: HMAC SHA-256 signature verification
+It was built to be a long-term asset rather than a launch artifact, and every part of it
+was built to be maintained by a careful engineer years from now without archaeology.
 
 ---
 
-##  License
+## Confidentiality
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This repository and its contents are proprietary and confidential.
 
----
+No part of this codebase, its design, its content or its documentation may be copied,
+distributed, disclosed, reused or derived from without prior written permission from the
+owner. Access to this repository does not grant any licence to its contents.
 
-##  Acknowledgments
-
-- **React Team**: For the powerful framework
-- **Vite Team**: For the lightning-fast build tool
-- **Tailwind CSS**: For the utility-first CSS framework
-- **Framer Motion**: For smooth animations
-- **Radix UI**: For accessible component primitives
-
----
-
-## Technical Support
-
-For technical questions or contributions:
-- **Developer**: [BnRamadan](https://bnramadan.com/)
-- **Email**: [contact@bnramadan.com](mailto:contact@bnramadan.com)
-
----
+**Engineering:** [BnRamadan](https://bnramadan.com/) · [contact@bnramadan.com](mailto:contact@bnramadan.com)
 
 <div align="center">
 
-###  Built with passion for design excellence
+<br/>
 
-**Safaqes** - _Clarity by Design_
+**Safaqes** · *Clarity by Design*
 
-_"Turning complexity into clarity, designing intuitive products, services, and systems engineered to work efficiently."_
+*"Turning complexity into clarity, designing intuitive products, services, and systems engineered to work efficiently."*
 
 </div>
